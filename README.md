@@ -15,15 +15,11 @@ O projeto consiste em uma aplicação web o Raffle. Ele é um gerador de número
 
 <h3 align="center"><a href="https://admiring-euclid-0885f6.netlify.app/">💻 Visite clicando aqui</a></h3>
 
-<div style="display: flex;">
-  <div style="float:left;">
-    <img width="300" style="border-radius: 10px" src="/assets/screenshots/landingMobile.png" />
-  </div>
-  <div style="display:flex; flex-direction:column;">
-    <img width="400" style="border-radius: 10px" src="/assets/screenshots/landing.png" />
-    <img width="400" style="border-radius: 10px" src="/assets/screenshots/result.png" />
-  <div>
-</div>
+<p align="center">
+   <img width="400" style="border-radius: 10px" src="/assets/screenshots/landing.png" />
+   <img width="400" style="border-radius: 10px" src="/assets/screenshots/result.png" />
+</p>
+
 
 <h2 id="tech" >Tecnologias</h2>
 
