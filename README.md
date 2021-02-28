@@ -1,4 +1,4 @@
-<img src="/assets/logo.png" width="400px" styles="margin: 0 auto;">
+<img src="/assets/logo.png" width="300px">
 
 ## O Projeto
 O raffle consiste em um gerador de número aleatórios para sorteios, o usuário insere quantos números seu sorteio possui e o Raffle sorteará um número aletório.
