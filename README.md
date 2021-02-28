@@ -8,9 +8,11 @@ O raffle consiste em um gerador de número aleatórios para sorteios, o usuário
 📌[Visite o projeto clicando aqui](https://admiring-euclid-0885f6.netlify.app/)
 
 
-<img src="/assets/screenshots/landing.png" width="400px">
+<img src="/assets/screenshots/landingMobile.png" width="300px">
 
-<img src="/assets/screenshots/result.png" width="400px">
+<img src="/assets/screenshots/landing.png" width="500px">
+
+<img src="/assets/screenshots/result.png" width="500px">
 
 ## Conceitos que coloquei em prática
 
