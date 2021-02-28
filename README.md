@@ -16,7 +16,7 @@ O projeto consiste em uma aplicação web o Raffle. Ele é um gerador de número
 <h3 align="center"><a href="https://admiring-euclid-0885f6.netlify.app/">💻 Visite clicando aqui</a></h3>
 
 <div style="display: flex; flex-direction: row; width:100%; margin: 0 auto;">
-  <div style="float: right;">
+  <div>
     <img width="300" style="border-radius: 10px" src="/assets/screenshots/landingMobile.png" />
   </div>
   <div style="display: flex; flex-direction: column;">
@@ -45,5 +45,5 @@ Abrir o arquivo <strong>index.html</strong> no seu navegador
 
 <h2 id="license">Licença</h2>
 
-Esse projeto está sobre a licença [MIT](LICENSE)
+Esse projeto está sob a licença [MIT](LICENSE)
 
